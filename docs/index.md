@@ -18,5 +18,5 @@ title: ホーム
 下記をおすすめします。
 
 1. [eelll/JS](https://miau.github.io/eljs/eellljs.html) でひらがなの打ち方だけ覚える
-1. [https://meech.hatenadiary.org/entry/20101222/1293037939](https://meech.hatenadiary.org/entry/20101222/1293037939) でGoogle日本語入力でT-Codeを入力できるようにする
+1. [https://meech.hatenadiary.org/entry/20101222/1293037939](https://meech.hatenadiary.org/entry/20101222/1293037939) でGoogle日本語入力でT-Codeを入力できるようにする。漢字はひらがなからの変換で入力してOK。
 1. 「この漢字頻繁に変換するなー」と感じたら [漢索/JS](https://miau.github.io/eljs/kansakujs.html) でその漢字のT-Codeを覚える
