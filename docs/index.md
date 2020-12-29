@@ -15,7 +15,7 @@ title: ホーム
 
 ## T-Code を学びたい人
 
-下記をおすすめします。
+下記をおすすめします。ちなみに eelll/JS や 漢索/JS の使い方は [こちら](https://miau.github.io/eljs/)
 
 1. [eelll/JS](https://miau.github.io/eljs/eellljs.html) でひらがなの打ち方だけ覚える
 1. [https://meech.hatenadiary.org/entry/20101222/1293037939](https://meech.hatenadiary.org/entry/20101222/1293037939) でGoogle日本語入力でT-Codeを入力できるようにする。漢字はひらがなからの変換で入力してOK。
