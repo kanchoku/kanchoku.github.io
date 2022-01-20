@@ -11,7 +11,7 @@ title: ホーム
 
 漢字直接入力で何か情報交換したいことがあれば。
 [https://kanchokujp.slack.com/](https://kanchokujp.slack.com/)
-招待リンクは [こちら](https://join.slack.com/t/kanchokujp/shared_invite/zt-kfrumadv-CnMwzIyctWJ1YPgVjyYJBQ)
+招待リンクは [こちら](https://join.slack.com/t/kanchokujp/shared_invite/zt-121epkhc1-9uoVU2G0DOrbtfRYoVySRQ)
 
 ## T-Code を学びたい人
 
